@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  user-select: none;
+}
+.btn{
+  text-align: center;
+}
+
+.nested-links{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+ } 
+ /* .nested-main a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+   }
+  
+ .nested-main li{
+list-style: none;
+margin: 30px;
+padding:  60px 20px;
+background-color: white;
+box-shadow:5px 10px 10px gainsboro;
+ } */

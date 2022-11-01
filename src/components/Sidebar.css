@@ -1,0 +1,31 @@
+.sidebar{
+    margin-top: 55px;
+    background-color: white;
+    width: 25%;
+    height: 100vh;
+    position: fixed;
+    box-shadow:5px 10px 10px gainsboro;
+
+}
+
+.sidebar-heading{
+    display: inline-block;
+    
+}
+.sidebar-main{
+    
+    display: flex;
+    align-items: center;
+    margin: 8px;
+    padding: 10px;
+    border-bottom: 1px solid whitesmoke;
+}
+.sidebar-icon{
+    padding: 5px;
+}
+@media (max-width: 700px) {
+    .sidebar-heading{
+        display: none;
+    }
+    
+}
